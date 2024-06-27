@@ -7,5 +7,6 @@ Dunkel Blau
 Cyan
 Magenta
 Yellow
+Black
 
 Sind alles tolle Farben
