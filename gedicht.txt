@@ -1,8 +1,11 @@
 Farbpalette
 
 Rot
-Grün
-Helle Blau
+
+HellGrün
+DunkelGrün
+
+Hell Blau
 Dunkel Blau
 Cyan
 Magenta
