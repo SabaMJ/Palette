@@ -6,5 +6,7 @@ Blau
 Cyan
 Magenta
 Yellow
+Grün für Kunde
+
 
 Sind alles tolle Farben
